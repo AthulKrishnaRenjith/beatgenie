@@ -98,7 +98,17 @@ Navigate to `windows_scripts/` and run `! Install.bat`. Other available scripts:
 
 ## 📦 Pretrained Weights and Dataset
 
-- [Download Dataset (8GB)](http://jet1.artiom.me:9008/8gb.zip)
+- ### 📂 Download the training dataset (8GB)
+
+```bash
+curl -L -o 8gb.zip http://jet1.artiom.me:9008/8gb.zip
+```
+
+Alternatively, open the link manually in your browser:
+
+```
+http://jet1.artiom.me:9008/8gb.zip
+```
 - [📅 Download pretrained model weights](https://drive.google.com/drive/folders/1hKSQ5Zy6o3Jc0vfC8sJqz94O-cT3LBkn?usp=sharing)
 
 ---
