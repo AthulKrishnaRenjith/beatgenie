@@ -12,7 +12,7 @@ This project leverages a powerful generative diffusion model trained on a large 
 
 ## 🎥 Demo
 
-- **📹 [Watch a generated beatmap in action](#)** *(https://drive.google.com/drive/folders/1qbL3JJkcii7D63Ne_oPtwUFyV6pn6Gj6?usp=sharing)*
+- **📹 [Watch a generated beatmap in action](https://drive.google.com/drive/folders/1qbL3JJkcii7D63Ne_oPtwUFyV6pn6Gj6?usp=sharing)**
 
 ---
 
@@ -137,7 +137,7 @@ Beatgenie demonstrates practical ML deployment in the context of game developmen
 
 Interested in the code or research behind Beatgenie?  
 📬 Contact: [rathulk7584@gmail.com]  
-🌐 [LinkedIn](www.linkedin.com/in/athulkrishnarenjith)
+🌐 [LinkedIn](https://www.linkedin.com/in/athulkrishnarenjith/)
 
 ---
 
