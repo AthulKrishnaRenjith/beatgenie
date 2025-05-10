@@ -2,8 +2,6 @@
 
 Beatgenie is a state-of-the-art machine learning system that generates osu!standard (osu!std) beatmaps directly from raw audio. Powered by diffusion-based generative models, Beatgenie takes your favorite songs and transforms them into playable rhythm game maps—automatically, intelligently, and creatively.
 
-> ⚡ Project formerly known as `osu-beatmap`
-
 ## 🔍 Why Beatgenie?
 
 Beatmap creation for rhythm games like osu! is typically a manual and time-consuming process requiring deep musical intuition and technical skill. Beatgenie automates this pipeline using machine learning, making it easier to prototype maps, experiment with audio, and explore new rhythms—perfect for game developers, AI researchers, and music technology enthusiasts.
@@ -19,7 +17,6 @@ This project leverages a powerful generative diffusion model trained on a large 
 ## 📁 Project Structure
 
 - `osu_dreamer/model/` — Model training and prediction scripts
-- `windows_scripts/` — Batch scripts for easy Windows use
 - `lightning_logs/` — Logs and model checkpoints
 - `model.yml` — Configurable training parameters
 
@@ -84,17 +81,6 @@ git clone https://github.com/jaswon/osu-dreamer
 cd osu-dreamer
 poetry install
 ```
-
-### Windows Users
-
-Navigate to `windows_scripts/` and run `! Install.bat`. Other available scripts:
-
-- `Run Training.bat`
-- `Resume Training.bat`
-- `Generate Beatmap.bat`
-- `Tensorboard.bat`
-
----
 
 ## 📦 Pretrained Weights and Dataset
 
