@@ -11,7 +11,8 @@ This project leverages a powerful generative diffusion model trained on a large 
 ## 🎥 Demo
 
 - **📹 [Watch a generated beatmap in action](https://drive.google.com/drive/folders/1qbL3JJkcii7D63Ne_oPtwUFyV6pn6Gj6?usp=sharing)**
-- ![Beatgenie Demo](beatgenie_demo.gif)
+- Short demo gif 
+![Beatgenie Demo](beatgenie_demo.gif)
 
 ---
 
