@@ -11,6 +11,7 @@ This project leverages a powerful generative diffusion model trained on a large 
 ## 🎥 Demo
 
 - **📹 [Watch a generated beatmap in action](https://drive.google.com/drive/folders/1qbL3JJkcii7D63Ne_oPtwUFyV6pn6Gj6?usp=sharing)**
+- ![Beatgenie Demo](beatgenie_demo.gif)
 
 ---
 
@@ -121,15 +122,8 @@ These visualizations offer insight into model learning and beat alignment.
 
 ---
 
-## 👨‍💼 For Recruiters
-
-Beatgenie demonstrates practical ML deployment in the context of game development and audio understanding. The project includes:
-
-- End-to-end pipeline: data preprocessing → model training → real-time inference  
-- Use of generative modeling (diffusion models)  
-- Audio feature extraction and temporal modeling  
-- Cross-platform support (Linux/Windows)  
-- Scalable, configurable training framework  
+## 📈 Future Work
+While Beatgenie already produces rhythmically aligned and playable beatmaps, future development will focus on improving the model’s ability to accurately identify and generate sliders, enhancing the overall quality and playability of the generated maps.
 
 Interested in the code or research behind Beatgenie?  
 📬 Contact: [rathulk7584@gmail.com]  
