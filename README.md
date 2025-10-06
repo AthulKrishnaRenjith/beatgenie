@@ -1,12 +1,6 @@
-# 🎶 Beatgenie: AI-Powered osu! Beatmap Generator
+# Osu! Beatmap Generator with Latent Diffusion
 
-Beatgenie is a state-of-the-art machine learning system that generates osu!standard (osu!std) beatmaps directly from raw audio. Powered by diffusion-based generative models, Beatgenie takes your favorite songs and transforms them into playable rhythm game maps—automatically, intelligently, and creatively.
-
-## Why Beatgenie?
-
-Beatmap creation for rhythm games like osu! is typically a manual and time-consuming process requiring deep musical intuition and technical skill. Beatgenie automates this pipeline using machine learning, making it easier to prototype maps, experiment with audio, and explore new rhythms—perfect for game developers, AI researchers, and music technology enthusiasts.
-
-This project leverages a powerful generative diffusion model trained on a large dataset of existing osu! maps and raw audio. The model learns to map audio features to human-like beatmap patterns, producing playable content that aligns rhythmically and stylistically with the song.
+Osu! Beatmap is a machine learning system that generates osu!standard (osu!std) beatmaps directly from raw audio. Powered by diffusion-based generative models, Osu! Beatmap takes songs and transforms them into playable rhythm game maps—automatically.
 
 ## Demo
 
@@ -120,11 +114,6 @@ These visualizations offer insight into model learning and beat alignment.
 - FFmpeg  
 - Poetry (for dependency management)  
 - TensorBoard (for monitoring)  
-
----
-
-## Future Work
-While Beatgenie already produces rhythmically aligned and playable beatmaps, future development will focus on improving the model’s ability to accurately identify and generate sliders, enhancing the overall quality and playability of the generated maps.
 
 ---
 
