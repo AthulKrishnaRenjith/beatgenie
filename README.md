@@ -1,6 +1,8 @@
-# Osu! Beatmap Generator with Latent Diffusion
+# Osu-Beatmap Generator: Diffusion-Based Rhythm Mapping from Audio
 
-Osu! Beatmap is a machine learning system that generates osu!standard (osu!std) beatmaps directly from raw audio. Powered by diffusion-based generative models, Osu! Beatmap takes songs and transforms them into playable rhythm game maps—automatically.
+Osu-Beatmap is a machine learning system that generates osu!standard (osu!std) beatmaps directly from raw audio. Powered by latent diffusion models, it converts songs into playable rhythm maps automatically.
+
+The system processes input audio into 3D spectrodiagrams, then analyses the latent representations through a diffusion-based generative model to produce accurate hit objects and timing patterns. This enables end-to-end beatmap generation that captures both rhythm and musical structure without manual mapping.
 
 ## Demo
 
